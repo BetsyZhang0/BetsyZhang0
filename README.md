@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on coding homework
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my MBTI is INTP-T
+- I will be using this alt account for school work only
+- You can check out my main GitHub @BetsyZhang10 (temporarily inactive)
 
 <!---
 BetsyZhang0/BetsyZhang0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
