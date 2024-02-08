@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Betsy Zhang aka Erin
-- 👀 I’m interested in programming, game dev, and esports
+- 👀 I’m interested in web dev, and esports
 - 🌱 I’m currently learning networking, python, web dev, and linux
 - 💞️ I’m looking to collaborate on coding homework
 - 😄 Pronouns: she/her
